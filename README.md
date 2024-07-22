@@ -19,3 +19,16 @@ Coming Soon...
 * Python
 * Django
 * AWS (EC2, S3, IAM, SecureStorage, R53, CloudFront)
+
+# REFERENCES
+* Concepts
+* Implementation (arm64)
+1. <https://developer.arm.com/documentation/den0024/a/Preface/Glossary>
+2. <https://learn.arm.com/learning-paths/servers-and-cloud-computing/exploiting-stack-buffer-overflow-aarch64/frame-layout/>
+3. <https://learn.arm.com/learning-paths/servers-and-cloud-computing/exploiting-stack-buffer-overflow-aarch64/buffer-overflow/>
+* Implementation (x86-64)
+1. <https://web.stanford.edu/class/cs107/guide/x86-64.html>
+2. <https://cseweb.ucsd.edu/classes/sp14/cse141-a/Slides/01_ISA-Part%20II-annotated.pdf>
+
+* Implementation (Other)
+1. <https://learn.arm.com/learning-paths/servers-and-cloud-computing/django/deploy_django_application/>
